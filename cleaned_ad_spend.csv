@@ -1,0 +1,751 @@
+campaign_id,campaign_name,platform,channel,date,impressions,clicks,spend
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-01-13,2063,149,386.91
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-01-14,6416,188,573.6
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-01-16,891,37,126.66
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-01-17,1191,76,502.79
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-02-14,769,19,143.62
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-02-17,1813,130,672.05
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-02-22,20415,688,578.43
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-02-27,1583,114,788.92
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-03-13,1169,49,258.48
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-04-12,917,57,316.45
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-04-22,4458,284,506.85
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-04-23,2079,157,396.7
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-04-25,1231,82,563.46
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-04-30,2290,101,666.35
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-05-06,371,27,208.24
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-05-21,670,49,209.47
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-08-03,1561,101,157.15
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-08-05,676,50,247.06
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-09-16,1413,40,321.5
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-10-07,5225,139,118.18
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-10-07,7352,175,644.06
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-10-15,3504,123,496.92
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-10-30,5622,411,560.21
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-11-05,5452,205,626.45
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-11-24,702,51,390.29
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-11-29,2475,125,778.92
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-12-13,4391,256,702.89
+CMP0001,Google_Brand_Search,Google Ads,Paid Search,2025-12-26,496,26,164.63
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-01-01,1970,121,746.69
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-01-10,1485,63,349.24
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-01-30,6890,164,388.61
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-02-05,6626,220,491.23
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-02-10,25708,617,580.88
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-02-13,19650,674,694.73
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-02-27,1852,141,210.68
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-03-06,1283,57,232.25
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-03-07,704,32,122.7
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-03-26,12939,766,697.88
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-04-19,235,16,95.46
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-05-03,2601,122,236.49
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-05-04,648,47,187.62
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-05-16,1018,54,382.35
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-06-07,5645,118,539.11
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-06-15,3600,108,744.78
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-07-05,782,58,411.02
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-08-05,1169,42,334.23
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-09-01,721,46,263.94
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-09-06,768,60,166.1
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-09-08,1434,33,95.72
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-09-28,2074,61,427.14
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-09-30,1041,58,110.08
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-10-09,848,46,352.83
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-10-18,2563,141,514.54
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-11-03,1926,116,287.28
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-11-07,1077,65,229.01
+CMP0002,Google_Competitor_Search,Google Ads,Paid Search,2025-12-04,683,52,392.92
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-01-05,501,18,127.69
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-02-05,9837,363,606.81
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-02-07,4974,289,588.21
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-02-21,2416,180,429.06
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-03-09,874,32,119.22
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-03-22,2563,202,300.17
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-04-20,2844,130,605.92
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-05-06,276,17,133.91
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-05-16,1218,67,459.19
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-05-26,10954,459,372.34
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-06-03,9942,348,724.19
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-06-04,924,67,315.26
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-06-28,10939,326,744.32
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-07-09,16043,1030,711.06
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-08-13,2940,177,636.79
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-08-23,1471,39,250.1
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-09-17,4623,319,693.94
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-09-28,636,46,312.24
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-10-03,856,34,67.75
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-10-06,5111,299,775.17
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-10-11,2030,81,559.64
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-10-16,553,17,136.51
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-11-10,368,15,78.69
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-11-15,1747,47,377.3
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-12-01,2039,41,241.04
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-12-06,1152,74,565.14
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-12-08,5275,316,323.17
+CMP0003,Google_Generic_Search,Google Ads,Paid Search,2025-12-27,3418,94,517.37
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-01-01,2903,135,541.03
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-03-07,863,67,433.38
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-03-31,3444,206,544.14
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-04-09,439,15,120.04
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-04-18,5069,109,218.48
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-05-27,2344,155,787.95
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-06-01,2176,69,360.83
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-06-04,3030,180,420.78
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-06-05,1409,103,719.49
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-06-08,517,32,214.13
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-06-17,507,36,87.66
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-07-14,712,37,150.0
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-07-26,1866,106,762.53
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-07-27,1068,50,370.06
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-07-29,4185,149,607.74
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-08-04,3943,263,679.9
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-08-09,8252,203,520.06
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-09-17,1005,74,225.87
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-10-08,1103,68,153.78
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-10-11,513,27,98.17
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-10-19,322,14,96.7
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-10-24,2570,110,692.55
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-11-07,6359,276,757.06
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-11-12,1102,75,453.67
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-12-07,3319,163,416.17
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-12-08,1218,54,302.1
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-12-13,1154,91,680.38
+CMP0004,Google_Display_Retargeting,Google Ads,Paid Search,2025-12-23,371,20,70.22
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-01-10,3132,109,80.19
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-01-26,4648,225,516.0
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-01-27,3580,222,472.98
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-02-05,523,34,175.84
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-02-11,9457,366,633.34
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-02-12,2067,154,746.67
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-03-11,2398,59,347.49
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-04-04,281,20,126.43
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-04-19,6044,136,647.17
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-04-25,2242,113,371.28
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-05-10,323,16,59.49
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-05-14,2094,146,770.59
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-05-23,795,62,376.62
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-06-17,1037,69,511.93
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-06-17,1717,62,376.68
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-06-22,8024,585,673.05
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-06-29,2129,128,612.86
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-07-14,323,10,71.52
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-07-14,3505,129,316.12
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-08-04,3365,106,466.84
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-08-08,2152,141,590.06
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-08-21,1878,127,534.43
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-08-25,2196,76,270.68
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-08-29,1978,90,404.95
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-10-04,2083,80,313.86
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-11-26,2647,72,140.49
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-11-29,4253,134,763.16
+CMP0005,Google_Shopping_Electronics,Google Ads,Paid Search,2025-11-30,792,52,257.37
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-01-07,2758,211,188.27
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-01-08,2747,136,135.57
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-01-24,312,24,163.8
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-01-28,8679,572,795.44
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-02-21,2523,188,631.77
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-02-22,2271,87,695.12
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-03-06,1079,83,507.22
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-03-06,8393,209,519.14
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-04-02,8415,170,180.36
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-04-10,6409,141,567.03
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-04-27,2118,100,580.22
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-05-21,2000,115,742.93
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-05-26,1358,80,368.85
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-05-30,21466,644,669.97
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-06-01,982,74,496.28
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-06-04,403,25,143.27
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-06-24,4072,101,425.35
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-07-04,2117,119,717.07
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-08-14,213,15,118.5
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-08-29,3977,144,799.68
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-09-03,6712,343,622.33
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-09-09,7186,396,737.05
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-10-01,4314,192,776.79
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-10-11,1984,79,552.6
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-10-21,508,35,266.16
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-11-23,3451,136,391.12
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-12-24,5174,104,698.68
+CMP0006,Google_Shopping_Fashion,Google Ads,Paid Search,2025-12-29,8512,435,396.48
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-01-08,4263,324,535.78
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-01-15,2410,169,431.65
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-01-27,1162,50,232.8
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-02-17,16570,401,609.72
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-02-28,1305,47,304.91
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-03-02,1721,95,262.13
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-03-04,3686,181,698.95
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-03-09,2135,101,463.94
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-03-23,2594,89,702.2
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-04-15,1548,35,225.17
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-04-26,2013,87,578.92
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-05-03,10778,540,421.5
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-05-17,2133,99,702.28
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-05-28,41293,1181,732.83
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-06-09,445,16,106.12
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-07-28,1082,77,537.38
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-08-13,1838,116,335.01
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-08-15,37925,914,704.29
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-08-25,2826,130,798.07
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-09-06,4115,107,620.28
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-10-09,3421,78,570.5
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-10-10,2822,81,270.03
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-10-10,2077,64,359.04
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-11-08,262,15,109.23
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-11-17,2536,86,423.25
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-11-19,960,71,394.68
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-12-24,4406,130,725.91
+CMP0007,Google_YouTube_Awareness,Google Ads,Paid Search,2025-12-30,2506,95,758.93
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-01-05,2749,160,505.3
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-01-12,1577,94,558.32
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-01-26,1207,71,521.19
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-02-24,20405,855,641.46
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-04-12,663,43,117.6
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-04-28,426,31,200.6
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-05-02,859,60,448.14
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-05-09,1243,97,735.54
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-05-21,7434,200,609.92
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-05-27,279,20,155.57
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-06-01,2816,118,775.45
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-06-01,274,13,60.44
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-06-04,955,73,488.42
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-07-03,2395,137,556.13
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-07-15,14285,340,736.44
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-07-16,5932,264,732.04
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-07-22,1340,107,84.01
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-08-22,604,17,122.89
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-09-05,695,43,328.26
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-09-12,2047,60,364.35
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-10-17,1405,80,541.19
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-10-20,472,22,74.54
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-10-22,9050,553,691.59
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-11-07,5762,136,726.27
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-12-04,1904,135,192.36
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-12-18,958,56,118.76
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-12-20,365,29,87.93
+CMP0008,Google_PMax_Conversions,Google Ads,Paid Search,2025-12-25,493,16,101.46
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-01-02,5112,250,455.03
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-01-08,9952,210,368.39
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-01-09,3216,138,444.53
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-01-14,6615,86,291.08
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-01-27,20064,309,512.96
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-02-26,3168,128,71.89
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-02-28,1119,44,101.93
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-03-06,4493,111,247.12
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-03-08,13392,604,375.09
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-03-09,2833,87,275.14
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-03-16,3789,97,257.28
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-03-17,15454,272,409.11
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-03-31,1564,23,68.27
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-03-31,18424,304,454.42
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-04-30,6528,173,364.29
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-05-02,1488,85,264.16
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-05-09,3441,201,524.81
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-05-16,5194,107,230.44
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-05-22,4627,242,157.82
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-06-15,3755,80,95.48
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-06-18,2927,149,511.74
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-07-03,3489,156,377.13
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-08-04,2047,52,132.84
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-09-27,15174,261,230.08
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-10-04,443,26,69.66
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-10-29,14806,459,455.28
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-11-02,3511,92,119.72
+CMP0009,Meta_Retargeting_Web,Meta Ads,Paid Social,2025-12-05,13962,666,533.51
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-01-24,60940,1231,591.13
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-02-11,6897,169,467.39
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-02-26,638,12,34.41
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-02-28,8443,320,333.57
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-04-21,1900,23,71.08
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-04-23,20661,531,292.06
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-05-20,4466,138,356.84
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-05-20,4086,76,260.87
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-05-26,10763,155,504.25
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-06-07,2127,77,168.69
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-06-26,9241,195,526.2
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-07-22,849,31,73.54
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-08-01,8275,384,546.38
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-08-06,10703,213,164.67
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-08-09,10211,193,463.32
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-08-15,3589,140,294.45
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-08-15,12914,226,522.62
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-09-06,2570,128,297.29
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-09-07,12900,427,230.61
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-09-20,1521,21,62.43
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-09-27,5981,198,380.55
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-10-31,2323,99,286.35
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-11-07,3402,197,374.85
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-12-05,992,27,89.0
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-12-08,16651,373,317.59
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-12-12,7407,300,594.86
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-12-14,6578,200,242.53
+CMP0010,Meta_Lookalike_Acquisition,Meta Ads,Paid Social,2025-12-14,21373,887,416.97
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-02-03,1696,86,244.71
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-02-11,932,33,83.27
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-02-13,12946,268,236.68
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-02-18,2203,39,139.44
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-03-08,16989,824,511.32
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-03-14,766,37,51.52
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-03-18,24631,468,370.43
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-05-10,35531,1002,441.07
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-05-26,5420,258,582.67
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-06-08,2607,152,163.38
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-06-08,13485,592,545.27
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-06-18,8384,244,293.16
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-06-20,16350,327,268.64
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-06-29,33000,1122,527.61
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-07-17,10497,549,346.09
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-07-20,2966,70,192.49
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-10-13,1169,67,113.99
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-10-14,2796,158,495.52
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-10-26,1422,31,60.36
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-11-01,11044,624,243.7
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-11-05,26748,650,481.09
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-12-02,12715,576,426.76
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-12-03,10727,118,380.75
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-12-06,5280,245,505.93
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-12-06,4429,97,271.26
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-12-14,684,34,57.22
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-12-24,628,22,65.8
+CMP0011,Meta_Brand_Awareness,Meta Ads,Paid Social,2025-12-29,904,20,39.37
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-01-01,23582,316,455.97
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-01-11,3971,193,447.78
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-01-23,2750,74,106.04
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-02-04,3423,202,503.32
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-02-13,10151,134,390.09
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-04-06,1068,53,51.08
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-05-04,5418,162,209.89
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-05-10,16855,713,299.84
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-05-30,1557,83,233.48
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-06-30,2012,64,185.73
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-07-04,4880,143,453.69
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-07-11,2935,165,312.84
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-07-18,10416,325,182.03
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-07-19,3404,127,373.4
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-08-02,2620,65,88.48
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-08-08,5033,224,373.49
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-08-29,1942,108,284.86
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-09-17,940,54,186.5
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-09-17,7198,257,412.57
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-09-26,18663,754,573.09
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-09-27,1942,95,49.84
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-10-06,6034,70,236.43
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-10-11,4335,124,417.07
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-10-20,5986,179,357.14
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-11-11,5576,261,172.28
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-11-22,6289,100,325.11
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-12-07,10714,435,431.3
+CMP0012,Meta_Carousel_Products,Meta Ads,Paid Social,2025-12-09,14379,197,144.1
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-01-14,4641,233,345.79
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-02-03,25607,653,378.81
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-02-14,2324,119,329.65
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-03-04,5620,77,101.44
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-03-13,5528,298,417.66
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-03-22,18746,658,467.64
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-03-31,10198,257,503.89
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-04-13,3040,83,213.92
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-04-25,7955,179,540.11
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-05-02,2152,79,101.35
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-05-29,4615,180,395.36
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-06-03,3846,155,405.48
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-06-13,104308,1283,500.38
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-06-27,4707,145,401.14
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-07-04,5510,135,313.88
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-07-05,2398,106,305.28
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-08-16,6424,115,288.52
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-09-10,7990,322,306.02
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-09-18,6632,394,521.05
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-10-05,28526,813,585.96
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-10-09,5042,118,211.9
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-11-23,4171,239,110.3
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-12-08,3055,55,171.51
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-12-16,11025,215,562.24
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-12-25,4613,161,314.01
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-12-30,17878,531,313.5
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-12-30,21231,586,581.01
+CMP0013,Meta_Lead_Gen_SaaS,Meta Ads,Paid Social,2025-12-31,1650,86,190.37
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-01-05,942,28,97.72
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-01-24,13720,236,347.96
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-01-27,50504,601,258.79
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-02-07,14310,249,488.26
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-02-25,1274,33,109.68
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-03-10,8880,222,594.65
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-04-10,4782,165,319.17
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-05-16,32293,859,300.69
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-05-24,5441,271,588.54
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-05-27,7500,321,370.24
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-05-28,10972,203,441.2
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-07-05,3965,46,114.23
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-07-07,2621,81,138.75
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-07-07,5400,263,423.59
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-07-17,15190,199,527.51
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-07-25,2587,155,325.65
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-07-26,13529,253,329.52
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-08-09,3230,157,225.13
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-08-19,18385,410,377.74
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-09-16,1847,46,158.17
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-10-02,4985,172,431.79
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-10-09,1385,69,228.82
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-10-11,2419,90,194.04
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-10-15,2948,148,496.48
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-10-19,1142,16,53.98
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-11-09,7246,150,403.9
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-11-16,3686,87,184.55
+CMP0014,Meta_Stories_Fashion,Meta Ads,Paid Social,2025-12-15,7873,174,380.94
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-01-03,525,56,108.24
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-01-27,5237,573,367.03
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-01-31,10788,1136,374.89
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-02-15,423,46,90.8
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-02-21,16128,1308,353.16
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-02-21,5246,372,372.81
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-03-12,2304,97,219.24
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-03-22,7231,290,197.85
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-04-13,1837,174,297.83
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-04-26,1812,147,299.91
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-04-30,352,39,86.69
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-05-27,5310,479,215.81
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-05-28,2600,297,393.04
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-06-14,1554,152,119.1
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-06-19,2290,71,134.74
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-07-28,17881,726,283.25
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-07-31,397,45,80.69
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-08-30,1455,167,282.31
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-09-01,8142,342,253.56
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-09-02,1226,78,192.89
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-10-09,1839,188,366.86
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-10-21,2069,173,309.51
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-11-23,2428,152,219.69
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-11-27,384,29,43.47
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-11-30,1002,77,76.94
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-11-30,2013,149,278.51
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-12-01,11885,498,189.28
+CMP0015,TikTok_Brand_Challenge,TikTok Ads,Paid Social,2025-12-15,7108,509,193.58
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-01-02,1004,90,162.75
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-01-12,786,32,70.54
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-01-17,2650,313,169.36
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-01-24,1743,125,307.35
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-01-31,3234,164,181.17
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-02-02,1520,174,151.54
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-02-05,211,18,32.24
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-02-07,3329,278,111.45
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-03-11,3924,135,247.16
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-04-03,4455,221,172.86
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-04-22,567,29,73.25
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-05-11,1157,120,239.44
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-05-27,2639,236,134.67
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-06-26,2534,203,177.15
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-07-11,2855,213,257.88
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-07-13,2125,214,377.8
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-07-15,4263,243,284.6
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-07-22,2180,232,306.68
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-07-29,8451,606,345.87
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-08-04,1197,96,233.71
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-08-05,3417,204,167.6
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-08-18,4464,171,370.45
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-08-30,414,35,39.58
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-10-05,5324,525,351.98
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-10-24,1516,91,202.17
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-11-25,1520,147,100.49
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-11-27,2154,201,367.49
+CMP0016,TikTok_Product_Demo,TikTok Ads,Paid Social,2025-12-25,2464,246,367.75
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-01-09,1214,78,77.92
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-01-24,1320,121,209.73
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-02-20,2407,229,310.08
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-03-16,1653,102,195.12
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-04-15,1928,217,293.72
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-04-24,2137,165,396.32
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-05-14,2186,216,379.17
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-05-14,1191,43,72.25
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-06-01,251,16,23.47
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-06-07,11964,932,270.53
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-06-10,310,17,24.5
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-06-13,132,12,26.51
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-07-03,2972,129,60.67
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-07-04,5024,311,255.52
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-07-09,280,20,50.03
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-07-31,5687,521,396.29
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-08-02,1250,123,268.42
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-08-27,2170,158,174.01
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-08-27,6145,652,287.08
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-08-29,2772,107,235.03
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-09-12,4311,479,369.28
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-09-20,567,52,123.02
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-10-01,7181,237,361.74
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-10-11,837,36,25.95
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-10-16,5012,405,372.97
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-10-24,2914,188,277.27
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-10-27,4770,177,320.39
+CMP0017,TikTok_Influencer_Collab,TikTok Ads,Paid Social,2025-11-29,303,32,40.4
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-01-16,1845,81,164.4
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-02-07,9377,286,140.34
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-02-12,2448,96,189.0
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-02-13,901,72,91.21
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-03-20,1639,131,59.25
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-04-06,18497,1243,348.21
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-04-27,1634,195,295.44
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-05-07,5847,376,237.34
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-05-18,3317,143,122.19
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-05-20,2092,154,185.18
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-06-01,695,66,157.23
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-06-17,8989,356,245.65
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-07-02,179,19,22.57
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-07-12,5457,328,325.55
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-07-14,896,83,134.17
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-07-23,486,57,139.39
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-08-10,1528,179,299.25
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-08-19,1618,163,143.84
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-09-09,492,41,63.28
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-10-11,1358,44,88.37
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-10-27,5157,525,378.33
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-11-01,2425,162,331.21
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-11-06,1480,78,72.89
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-11-11,3896,143,291.79
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-11-13,1467,166,241.25
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-11-21,1778,111,226.59
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-12-05,2663,106,245.65
+CMP0018,TikTok_Gen_Z_Acquisition,TikTok Ads,Paid Social,2025-12-15,2913,257,269.89
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-01-06,19078,145,479.46
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-02-20,10697,276,1112.6
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-02-24,2723,67,483.16
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-03-19,4500,72,631.22
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-04-24,2687,68,450.8
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-04-24,2207,17,124.84
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-05-13,5251,94,1122.91
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-06-19,3433,57,464.09
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-07-11,7056,151,792.74
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-07-20,1212,12,132.11
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-07-24,4554,46,527.72
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-08-09,3152,58,735.08
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-08-17,4655,54,458.58
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-08-26,3165,63,680.49
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-09-14,3946,103,745.71
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-09-19,6935,86,995.11
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-09-23,11272,124,839.32
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-10-13,1460,26,301.35
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-10-16,4871,76,756.07
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-10-22,3317,70,799.05
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-10-25,9294,79,710.4
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-10-29,3684,98,1026.18
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-11-27,8082,118,633.07
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-11-28,5953,103,818.38
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-12-13,27413,159,637.57
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-12-14,3586,66,421.3
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-12-19,3991,97,958.81
+CMP0019,LinkedIn_SaaS_B2B,LinkedIn Ads,Paid Social,2025-12-20,20379,161,704.7
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-01-17,2450,62,777.77
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-01-22,3869,77,727.08
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-02-14,3196,39,456.02
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-02-22,4545,125,1147.64
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-03-02,1307,20,249.15
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-03-26,10731,88,1191.73
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-04-18,1245,32,374.64
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-04-22,5470,64,638.4
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-05-02,5261,131,512.69
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-05-07,2008,45,543.14
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-05-15,3435,67,600.17
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-06-02,4907,106,904.03
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-06-28,5503,82,1035.12
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-06-29,8549,112,1007.33
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-07-07,2447,47,471.53
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-08-06,2904,70,967.13
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-08-08,969,16,209.53
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-08-13,13963,229,1122.38
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-08-14,3373,28,322.55
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-08-19,1596,19,274.88
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-10-05,1811,50,375.43
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-10-07,606,14,156.97
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-10-29,18783,139,572.15
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-11-09,12710,136,624.49
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-11-20,354,9,110.22
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-12-01,9158,98,863.43
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-12-19,16640,213,903.84
+CMP0020,LinkedIn_Lead_Gen_Enterprise,LinkedIn Ads,Paid Social,2025-12-30,840,20,250.84
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-01-05,7983,95,445.95
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-02-05,1565,36,372.98
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-02-14,3206,84,956.87
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-02-21,3195,31,325.99
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-03-05,4233,116,425.1
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-03-13,8457,148,644.38
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-03-15,1548,46,681.12
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-03-19,937,18,245.18
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-03-26,8214,138,700.99
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-04-20,2672,31,118.36
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-04-22,5167,77,1114.84
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-06-29,5649,87,791.43
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-06-29,980,20,190.67
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-07-16,1714,48,191.96
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-07-30,4258,89,690.03
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-08-08,1840,53,441.19
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-08-14,2515,40,163.7
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-08-15,9723,211,773.53
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-09-29,888,20,231.39
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-10-16,5027,90,646.05
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-10-29,2530,62,283.66
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-11-09,7454,205,906.23
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-11-12,23787,157,987.82
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-11-18,10937,70,645.76
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-11-25,10921,83,504.46
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-11-29,6229,38,351.24
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-12-13,2876,42,369.01
+CMP0021,LinkedIn_Brand_Awareness_B2B,LinkedIn Ads,Paid Social,2025-12-18,3389,20,296.86
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-01-05,3130,77,505.81
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-01-24,3468,60,610.32
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-01-27,3775,94,905.71
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-02-05,1203,13,107.02
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-02-09,13461,70,799.54
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-02-14,343,9,101.61
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-03-03,2000,22,214.34
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-04-02,9069,78,1157.3
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-04-25,510,14,202.33
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-04-25,2424,40,554.36
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-05-08,3875,81,738.85
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-05-19,1132,18,182.31
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-05-25,4496,58,360.45
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-06-09,5615,73,870.8
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-06-13,2857,24,356.97
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-06-14,3233,54,270.95
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-06-17,1275,31,232.81
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-07-10,8875,71,439.14
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-07-25,6548,148,988.36
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-08-02,2873,25,336.52
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-08-22,24193,150,1165.24
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-08-27,4310,25,386.18
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-09-15,5691,107,1040.06
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-09-22,5647,48,608.25
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-10-11,1226,13,167.84
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-10-20,6442,134,1006.04
+CMP0022,LinkedIn_Retargeting_B2B,LinkedIn Ads,Paid Social,2025-12-11,4782,121,740.56
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-01-16,29396,1023,133.1
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-01-22,3951,179,98.86
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-01-26,2516,39,13.84
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-02-03,5950,119,98.18
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-02-17,2929,121,120.25
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-03-04,3907,93,74.55
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-03-07,13727,151,51.63
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-03-28,518,11,9.25
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-03-30,2060,103,81.77
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-04-06,1352,28,19.52
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-04-12,3666,121,115.79
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-04-20,1484,65,56.45
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-05-21,2531,100,39.3
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-05-24,27815,1057,137.53
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-06-19,6464,320,86.65
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-07-01,27913,321,83.61
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-07-15,4147,129,38.73
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-07-22,1914,81,53.1
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-08-07,2671,117,108.96
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-08-10,1544,59,13.64
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-08-16,3063,136,117.28
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-08-17,2403,62,59.17
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-08-25,2795,137,53.8
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-09-12,3444,124,119.82
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-10-21,3859,176,107.54
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-11-27,3470,59,37.37
+CMP0023,Email_Welcome_Series,Email Marketing,Email,2025-12-16,17602,301,111.43
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-01-17,10250,205,69.76
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-02-09,1752,68,55.82
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-02-15,1639,80,60.96
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-02-23,5440,173,76.5
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-03-14,4652,154,125.18
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-03-27,3835,168,28.59
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-04-04,1619,23,7.91
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-04-24,1704,67,29.67
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-05-02,6127,144,141.57
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-06-12,6038,218,107.15
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-06-13,8021,146,27.78
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-06-19,2276,107,64.35
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-06-21,6358,124,43.46
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-06-27,3547,105,61.97
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-07-20,5458,119,57.32
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-09-12,16785,282,33.95
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-10-17,18904,276,146.67
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-10-18,3883,80,73.29
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-10-21,5612,142,61.19
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-11-05,7132,204,69.64
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-11-10,12937,207,126.38
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-11-22,1324,42,17.43
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-11-24,2318,99,85.27
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-11-24,4231,201,145.02
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-12-10,9436,435,74.06
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-12-26,2023,85,77.8
+CMP0024,Email_Cart_Abandonment,Email Marketing,Email,2025-12-29,1656,28,22.44
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-01-07,7724,112,90.2
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-01-22,1042,42,26.49
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-02-04,16285,228,139.11
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-02-10,3237,146,130.78
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-02-14,3255,112,60.54
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-03-06,1873,65,29.97
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-03-17,472,11,10.62
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-04-09,1062,22,12.15
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-04-14,407,9,7.93
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-04-19,3903,146,127.21
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-05-13,866,24,24.49
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-05-22,2541,91,44.07
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-06-13,2851,75,69.05
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-06-16,3037,130,115.13
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-07-18,19479,748,119.77
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-07-23,619,28,24.67
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-08-05,1833,33,30.19
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-08-11,1713,80,41.18
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-08-23,1754,53,44.73
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-09-24,10945,324,103.77
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-10-10,1014,34,30.75
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-10-12,3152,64,54.92
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-11-01,6181,102,46.34
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-11-16,5121,190,129.28
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-11-18,3968,177,99.48
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-12-16,19822,335,73.74
+CMP0025,Email_Monthly_Newsletter,Email Marketing,Email,2025-12-25,1194,57,37.45
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-01-04,393,14,14.26
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-02-22,1247,57,42.87
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-02-25,2857,56,32.31
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-04-22,4352,148,121.79
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-05-10,3812,138,103.71
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-05-25,3450,88,42.62
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-06-02,2089,89,89.54
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-06-04,11687,367,110.35
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-06-28,6402,194,136.45
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-07-11,8255,142,126.89
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-07-12,2435,95,73.26
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-07-23,4309,156,142.3
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-08-05,3273,73,56.52
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-08-24,3251,93,58.89
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-08-27,2492,83,73.23
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-09-04,17702,262,73.47
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-09-19,3883,174,81.83
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-09-24,3371,89,24.92
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-10-15,1686,29,25.77
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-10-27,6549,112,75.7
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-11-01,396,16,5.68
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-11-08,8913,369,88.56
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-11-16,1764,48,23.76
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-11-28,28608,329,144.97
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-12-06,2516,115,110.95
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-12-13,1282,45,32.63
+CMP0026,Email_Re_Engagement,Email Marketing,Email,2025-12-17,1866,42,37.81
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-01-10,9801,296,35.62
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-01-24,7304,84,58.16
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-02-03,5236,177,116.83
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-03-09,13518,146,100.99
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-03-10,4639,148,65.43
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-03-26,10187,381,106.77
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-03-27,1890,69,48.66
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-04-07,4850,130,95.31
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-04-25,5586,119,79.18
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-04-27,2871,118,77.17
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-05-29,13143,347,146.1
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-06-02,1038,19,10.71
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-06-06,14336,529,52.94
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-06-22,11250,180,126.11
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-06-25,17840,694,118.03
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-07-03,3930,193,98.43
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-07-16,22352,380,72.32
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-07-26,8247,306,128.58
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-08-11,14615,589,112.09
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-08-22,807,29,6.4
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-09-08,3323,116,56.84
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-09-15,9794,143,59.03
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-09-24,16732,425,144.53
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-09-26,4224,177,120.99
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-10-29,649,32,24.21
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-11-02,716,21,20.04
+CMP0027,Email_Promo_Flash_Sale,Email Marketing,Email,2025-12-18,2921,71,31.28
