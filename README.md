@@ -302,42 +302,6 @@ Understand customer behavior before conversion.
 
 ---
 
-# 📁 Repository Structure
-
-```
-Multi-Touch-Marketing-Attribution/
-│
-├── Dataset/
-│  
-│
-├── Python/
-│   └── data_cleaning.ipynb
-│
-├── SQL/
-│   └── attribution_analysis.sql
-│
-├── Power BI/
-│   └── Marketing Attribution.pbix
-│
-├── Executive Report/
-│   └── Executive_Report.pdf
-│
-├── Presentation/
-│   └── Project_Presentation.pptx
-│
-├── Images/
-│   ├── landing_page.png
-│   ├── dashboard1.png
-│   ├── dashboard2.png
-│   ├── dashboard3.png
-│   ├── dashboard4.png
-│   └── star_schema.png
-│
-└── README.md
-```
-
----
-
 # 📚 Project Deliverables
 
 - ✅ Python Data Cleaning Notebook
