@@ -178,7 +178,7 @@ The reporting model consists of:
 
 This model was optimized for Power BI reporting and DAX calculations.
 
-![Star Schema Data Modeling](Images/Star Schema Data Modeling.png)
+![Star Schema](Images/Star Schema Data Modeling.png)
 
 ---
 
@@ -207,7 +207,7 @@ Provides navigation to all report pages with project overview and quick access b
 ---
 
 ## 📊 Dashboard 1 — Executive Marketing Performance
-![Executive Performance Dashboard](Images/Executive Marketing Performance Overview.png)
+![Dashboard](Images/Executive Marketing Performance Overview.png)
 
 **Purpose**
 
@@ -226,7 +226,7 @@ Provides a high-level overview of marketing performance.
 ---
 
 ## 📈 Dashboard 2 — Multi-Touch Attribution Analysis
-![Multi-Touch Attribution Analysis](Images/Multi-Touch Attribution Analysis.png)
+![Dashboard](Images/Multi-Touch Attribution Analysis.png)
 
 **Purpose**
 
@@ -245,7 +245,7 @@ Compare attribution models.
 ---
 
 ## 💰 Dashboard 3 — Campaign ROI & Performance
-![Campaign ROI & Performance](Images/Campaign ROI & Performance.png)
+![Dashboard](Images/Campaign ROI & Performance.png)
 
 **Purpose**
 
@@ -262,7 +262,7 @@ Analyze campaign profitability and marketing efficiency.
 ---
 
 ## 👥 Dashboard 4 — Customer Journey & Funnel Analysis
-![Customer Journey & Funnel Analysis](Images/Customer Journey & Funnel Analysis.png)
+![Dashboard](Images/Customer Journey & Funnel Analysis.png)
 
 **Purpose**
 
